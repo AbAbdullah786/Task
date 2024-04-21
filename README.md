@@ -18,15 +18,17 @@ Before running the application, ensure that you have the following installed on 
    ```bash
    git clone https://github.com/AbAbdullah786/Task
 
+2. After clone the project to run command:
+   cd task
+
 ## Project Setup
 
-```sh
+3. run command: 
 npm install
 ```
 
 ### Compile and Hot-Reload for Development
-
-```sh
+4. run command to start project
 npm run dev
 ```
 
