@@ -1,14 +1,22 @@
-# Streamed
+# Vue.js Application
 
-This template should help get you started developing with Vue 3 in Vite.
+## Getting Started
 
-## Recommended IDE Setup
+Follow these instructions to run the Vue.js application locally on your machine.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+### Prerequisites
 
-## Customize configuration
+Before running the application, ensure that you have the following installed on your machine:
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+- Node.js: [Download and Install Node.js](https://nodejs.org/)
+- npm (Node Package Manager): This comes bundled with Node.js installation.
+
+### Installation
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/AbAbdullah786/Task
 
 ## Project Setup
 
